@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+:root {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    min-height: 50vh;
+    width: 100%;
+    border: solid black 2px;
+    background-color: rgb(255, 255, 255);
+}
+
+.banner {
+    padding: 10px;
+    background-color: rgb(127, 204, 255);
+}
+
+.banner-name {
+    background-color: rgb(127, 204, 255);
+}
+
+.nav-box {
+    display: flex;
+    padding: 10px;
+    background-color: rgb(85, 141, 179);
+}
+
+.link-list {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    list-style: none;
+    background-color: rgb(85, 141, 179);
+    
+
+}
+
+.link-item {
+    padding: 5px;
+    color: black;
+    text-decoration: none;
+}
+.input-box {
+    padding: 5px;
+    background-color: rgb(85, 141, 179)
+}
+
+input {
+    padding: 5px;
+    background-color: rgb(255, 255, 255)
+}
+
+.show-list-item {
+    line-height: 25px;
+    padding: 10px;
+    list-style: none;
+    
+}
+
+.list-item {
+    list-style: none;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+
+main {
+    flex-grow: 1;
+    height: 50vh;
+    width: 50vh;
+    max-width: 800px;
+    overflow-y: scroll;
+    
+}
+
+.title {
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.date-time {
+    font-size: 12px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+
+.sample-body {
+    font-size: 18px;
+}
+
+.body {
+    display: flex;
+    flex-grow: 1;
+    height: 500px;
+    font-size: 18px;
+    padding: 10px;
+    line-height: 1em;
+}
+
+
+.post-template-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start; 
+    padding: 10px;
+    padding-left: 20px;
+}
+
+.posted-form {
+    width: 100%;
+}
+
+.delete-line  {
+    padding-left: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.delete-button, .Discard-button {
+    display: flex;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    background-color: rgba(255, 0, 0, 0.85);
+   
+}
+
+.edit-button, .submit-button, .Update-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin-right: 5px;
+    padding: 5px;
+    background-color: rgba(30, 255, 0, 0.85);
+}
+
+.delete-button:hover, .submit-button:hover {
+    background-color:  rgba(255, 0, 0, 0.411);
+}
+
+/* .link-item::hover {
+    background-color:  red;
+} */
+
+.title-input-box {
+    
+}
+
+.post-input-box {
+    height: 40vh;
+    width: 100%;
+    width: 600px;
+    min-width: 300px;
+    max-width: 700px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-grow: 1;
+}
+
+.description {
+    font-size: 18px;
+    text-indent: 20px;
+}
+
+p {
+    line-height: 1.5em;   
+}
+.footer {
+    display: grid;
+    justify-content: center;
+}
