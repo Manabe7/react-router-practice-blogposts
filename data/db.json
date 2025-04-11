@@ -3,23 +3,23 @@
     {
       "id": "1",
       "title": "my 1st post",
-      "datetime": "Sat Apr 05 2025 22:52:02 GMT+0900 (Japan Standard Time)",
-      "body": "asdsasad",
-      "edit": false
+      "datetime": "Fri Apr 11 2025 22:49:47 GMT+0900 (Japan Standard Time)",
+      "body": "my first post of this react router practice",
+      "editStatet": false
     },
     {
       "id": "2",
-      "title": "my 2nd post ",
-      "datetime": "Sat Apr 05 2025 22:52:09 GMT+0900 (Japan Standard Time)",
-      "body": "asdasdasdasd",
-      "edit": false
+      "title": "my 2nd post",
+      "datetime": "Fri Apr 11 2025 22:48:51 GMT+0900 (Japan Standard Time)",
+      "body": "my second post \n",
+      "editStatet": false
     },
     {
       "id": "3",
-      "title": "my 3rd post ",
-      "datetime": "Sat Apr 05 2025 22:52:14 GMT+0900 (Japan Standard Time)",
-      "body": "asdasdasdsad",
-      "edit": false
+      "title": "my 3rd  post",
+      "datetime": "Fri Apr 11 2025 22:48:24 GMT+0900 (Japan Standard Time)",
+      "body": "test post number 3",
+      "editStatet": false
     }
   ]
 }
