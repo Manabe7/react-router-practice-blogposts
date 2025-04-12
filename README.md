@@ -30,24 +30,30 @@ A simple blog platform built with React that allows users to create, view, updat
 
 Install `json-server` globally if you haven’t already:
 
-``bash
+```console
 npm install -g json-server
-
+```
 
 ### Installation
 
 1. **Clone the repository:**
+```console
    git clone https://github.com/Manabe7/react-router-practice-blogposts.git
    cd my-react-route
-
-2. Install dependencies:
+```
+2. **Install dependencies:**
+```console
     npm install
-
-3. Start the JSON Server:
+```
+3. **Start the JSON Server:**
+```console
     npx json-server -p 3500 -w data/db.json 
+```
 
-4. Start the Vite development server:
+4. **Start the Vite development server:**
+```console
     npm run dev
+```
 
 ## 🖱️ Usage
 - The homepage shows a preview of each blog post.
