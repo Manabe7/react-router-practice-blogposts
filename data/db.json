@@ -20,6 +20,20 @@
       "datetime": "Fri Apr 11 2025 22:48:24 GMT+0900 (Japan Standard Time)",
       "body": "test post number 3",
       "editStatet": false
+    },
+    {
+      "id": "4",
+      "title": "my 4th post",
+      "datetime": "Sat Apr 12 2025 18:54:32 GMT+0900 (Japan Standard Time)",
+      "body": "This is blog-posts web I have created by using react-router-Dom and Axios to fetch API data",
+      "editStatet": false
+    },
+    {
+      "id": "5",
+      "title": "my 5th post",
+      "datetime": "Sat Apr 12 2025 18:59:44 GMT+0900 (Japan Standard Time)",
+      "body": "I also use local rest API data by using JSON-server ",
+      "editStatet": false
     }
   ]
 }
