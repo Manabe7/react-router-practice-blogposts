@@ -50,20 +50,20 @@ npm install -g json-server
     npm run dev
 
 ## 🖱️ Usage
-- [The homepage shows a preview of each blog post.]
+- The homepage shows a preview of each blog post.
 
-- [Clicking on a post takes you to a details page with the full content.]
+- Clicking on a post takes you to a details page with the full content.
 
-- [A search bar lets users filter posts by keywords.]
+- A search bar lets users filter posts by keywords.
 
-- [Posts can be created, edited, or deleted.]
+- Posts can be created, edited, or deleted.
 
-- [All post data is handled via API requests to json-server.]
+- All post data is handled via API requests to json-server.
 
 ## 🛠 Tech Stack
-- [React (Vite)]
-- [Axios]
-- [React Router DOM]
-- [JSON Server (mock API)]
-- [JavaScript]
-- [CSS]
+- React (Vite)
+- Axios
+- React Router DOM
+- JSON Server (mock API)
+- JavaScript
+- CSS
