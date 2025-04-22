@@ -34,7 +34,7 @@ const PostPage = ({item, handleDelete, handleEdit, submitEdit, discardEdit, titl
                                 UpdatePost
                             </button>
                             <button className='Discard-button' onClick={() => discardEdit(post.id)}>
-                                <Link className='link-item' to='/react-router-practice-blogposts' >
+                                <Link className='link-item' to='http://Manabe7.github.io/react-router-practice-blogposts' >
                                     DiscardUpdate
                                 </Link>
                             </button>
@@ -53,7 +53,7 @@ const PostPage = ({item, handleDelete, handleEdit, submitEdit, discardEdit, titl
                             Edit post
                         </button>
                         <button className='delete-button' onClick={() =>handleDelete(post.id)}>
-                            <Link className='link-item' to='/react-router-practice-blogposts' >
+                            <Link className='link-item' to='http://Manabe7.github.io/react-router-practice-blogposts' >
                                 Delete
                             </Link>
                         </button>

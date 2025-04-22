@@ -130,7 +130,7 @@ function App() {
         <Nav search={search} setSearch={setSearch} />
         <main>
           <Routes>
-              <Route path="/react-router-practice-blogposts" element={
+              <Route path="http://Manabe7.github.io/react-router-practice-blogposts" element={
                 <Home 
                   item={searchResults}
                   error={error}

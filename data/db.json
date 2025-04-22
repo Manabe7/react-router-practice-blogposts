@@ -41,6 +41,13 @@
       "datetime": "Tue Apr 22 2025 22:04:09 GMT+0900 (Japan Standard Time)",
       "body": "this is the post i create after try deploy this web",
       "editState": false
+    },
+    {
+      "id": "7",
+      "title": "my 7th post",
+      "datetime": "Tue Apr 22 2025 22:13:44 GMT+0900 (Japan Standard Time)",
+      "body": "asdasd\n",
+      "editState": false
     }
   ]
 }

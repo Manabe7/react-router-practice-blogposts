@@ -25,7 +25,7 @@ const NewPost = ({ title, setTitle, body, setBody, handleSubmit}) => {
                     />
                                     
                 <button className='submit-button' onClick={handleSubmit}>
-                    <Link className='link-item' to='/react-router-practice-blogposts'>
+                    <Link className='link-item' to='http://Manabe7.github.io/react-router-practice-blogposts'>
                         Submit
                     </Link>
                 </button>
