@@ -6,7 +6,7 @@ const Nav = ({search, setSearch}) => {
     return (
         <nav className='nav-box'>
             <ul className='link-list'>
-                <li className='link'><Link className='link-item' to='/'>Home</Link></li>
+                <li className='link'><Link className='link-item' to='/react-router-practice-blogposts'>Home</Link></li>
                 <li className='link'><Link className='link-item' to='/Post'>Post</Link></li>
                 <li className='link'><Link className='link-item' to='/About'>About</Link></li>
             </ul>
