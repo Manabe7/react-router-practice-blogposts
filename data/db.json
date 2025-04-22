@@ -34,6 +34,13 @@
       "datetime": "Sat Apr 12 2025 18:59:44 GMT+0900 (Japan Standard Time)",
       "body": "I also use local rest API data by using JSON-server ",
       "editStatet": false
+    },
+    {
+      "id": "6",
+      "title": "my new 6th post",
+      "datetime": "Tue Apr 22 2025 22:04:09 GMT+0900 (Japan Standard Time)",
+      "body": "this is the post i create after try deploy this web",
+      "editState": false
     }
   ]
 }
